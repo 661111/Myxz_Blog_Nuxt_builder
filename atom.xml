@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.myxz.top/</id>
   <title>柒渊阁</title>
-  <updated>2025-08-27T02:13:51.645Z</updated>
-  <description>莫言的博客网站，分享技术和魔改。网站界面简洁美观，涵盖了魔改、教程等多个领域，为读者提供了卓越的阅读体验。</description>
+  <updated>2025-08-27T02:46:47.296Z</updated>
+  <description>柒渊阁的博客网站，分享技术和魔改。网站界面简洁美观，涵盖了魔改、教程等多个领域，为读者提供了卓越的阅读体验。</description>
   <author>
     <name>柒渊</name>
     <email>3227988255@qq.com</email>
@@ -13,7 +13,7 @@
   <link href="https://www.myxz.top/atom.xml" rel="self"></link>
   <link href="https://www.myxz.top/" rel="alternate"></link>
   <language>zh-CN</language>
-  <generator uri="https://github.com/L33Z22L11/blog-v3" version="3.3.2">Zhilu Blog</generator>
+  <generator uri="https://github.com/L33Z22L11/blog-v3" version="3.4.0">Zhilu Blog</generator>
   <icon>https://sourceimage.s3.bitiful.net/myxz.avif</icon>
   <logo>https://sourceimage.s3.bitiful.net/myxz.avif</logo>
   <rights>© 2025 柒渊</rights>
