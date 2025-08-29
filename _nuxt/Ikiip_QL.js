@@ -1,1 +1,0 @@
-import{B as s,c as r,e as t,a8 as n}from"./C3nOthln.js";const o={};function a(e,c){return t(),r("th",null,[n(e.$slots,"default")])}const _=Object.assign(s(o,[["render",a]]),{__name:"ProseTh"});export{_ as default};
