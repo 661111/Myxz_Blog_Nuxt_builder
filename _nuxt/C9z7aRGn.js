@@ -1,0 +1,1 @@
+import{B as o,c as s,o as r,a8 as n}from"./BTWLiRya.js";const t={};function a(e,c){return r(),s("ol",null,[n(e.$slots,"default")])}const _=Object.assign(o(t,[["render",a]]),{__name:"ProseOl"});export{_ as default};
