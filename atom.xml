@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.myxz.top/</id>
   <title>柒渊阁</title>
-  <updated>2025-09-02T04:40:27.853Z</updated>
+  <updated>2025-09-02T11:11:12.603Z</updated>
   <description>柒渊阁的博客网站，分享技术和魔改。网站界面简洁美观，涵盖了魔改、教程等多个领域，为读者提供了卓越的阅读体验。</description>
   <author>
     <name>柒渊</name>
@@ -220,5 +220,19 @@
     <summary>本篇文章讲述了添加模块代码并在博客的友情链接中添加模块，且使用css美化</summary>
     <category term="博客魔改"></category>
     <published>2025-08-11T10:00:00.000Z</published>
+  </entry>
+  <entry>
+    <id>https://www.myxz.top/2025/09/sitelink-page</id>
+    <title>添加站点详情页面</title>
+    <author>
+      <name>柒渊</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="https://sourceimage.s3.bitiful.net/img/default_cover_32.avif" /> <p>本篇文章主要简述了如何给Nuxt框架添加站点详情</p> <a class="view-full" href="https://www.myxz.top/2025/09/sitelink-page" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://www.myxz.top/2025/09/sitelink-page"></link>
+    <summary>本篇文章主要简述了如何给Nuxt框架添加站点详情</summary>
+    <category term="博客魔改"></category>
+    <published>2025-09-02T10:00:00.000Z</published>
   </entry>
 </feed>
